@@ -1,0 +1,10 @@
+streamlit==1.32.0
+pandas==2.2.2
+numpy==1.26.4
+scikit-learn==1.4.2
+xgboost==2.0.3
+rdkit-pypi==2022.9.5
+torch==2.2.2
+torch-geometric==2.5.3
+shap==0.44.1
+matplotlib==3.8.4
